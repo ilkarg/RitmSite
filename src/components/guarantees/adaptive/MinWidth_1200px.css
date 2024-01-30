@@ -1,0 +1,13 @@
+@media (min-width: 1200px) {
+    .Guarantees {
+        margin-top: 1.5%;
+    }
+
+    .Guarantees__header {
+        font-size: 25px;
+    }
+
+    .Guarantees__guarantee-block {
+        flex-direction: row;
+    }
+}

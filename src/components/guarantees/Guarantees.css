@@ -1,0 +1,14 @@
+@import "adaptive/MinWidth_1200px.css";
+@import "adaptive/MaxWidth_480px.css";
+
+.Guarantees__header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Guarantees__guarantee-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

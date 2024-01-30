@@ -1,0 +1,28 @@
+@media (min-width: 1200px) {
+    .Header {
+        display: flex;
+        margin-top: 2%;
+        margin-left: 20%;
+    }
+
+    .Header__image-block {
+        margin-top: 1%;
+        margin-right: 2%;
+    }
+
+    .Header__image-block__image {
+        display: block;
+        width: 250px;
+        height: 60px;
+    }
+
+    .Header__content-block__title {
+        display: block;
+        font-size: 25px;
+    }
+
+    .Header__content-block__content {
+        display: block;
+        font-size: 18px;
+    }
+}

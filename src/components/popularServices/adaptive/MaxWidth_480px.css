@@ -1,0 +1,21 @@
+@media (max-width: 480px) {
+    .PopularServices {
+        display: block;
+        margin-top: 2%;
+        padding-bottom: 2%;
+    }
+
+    .PopularServices__header-block {
+        padding-top: 1%;
+    }
+
+    .PopularServices__header-block__header {
+        display: block;
+
+        text-align: center;
+    }
+
+    .PopularServices__cards-block__first-line > div.ServiceCard, .PopularServices__cards-block__second-line > div.ServiceCard {
+        margin: 3% auto auto auto;
+    }
+}

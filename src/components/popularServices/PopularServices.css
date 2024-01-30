@@ -1,0 +1,12 @@
+@import "adaptive/MinWidth_1200px.css";
+@import "adaptive/MaxWidth_480px.css";
+
+.PopularServices {
+    width: 100%;
+    background-color: #FFE4E4;
+}
+
+.PopularServices__header-block__header {
+    display: block;
+    text-align: center;
+}

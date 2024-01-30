@@ -1,0 +1,13 @@
+@import "adaptive/MinWidth_1200px.css";
+@import "adaptive/MaxWidth_480px.css";
+
+.Footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #585858;
+}
+
+.Footer__content {
+    color: white;
+}

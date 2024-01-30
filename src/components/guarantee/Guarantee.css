@@ -1,0 +1,8 @@
+@import "adaptive/MinWidth_1200px.css";
+@import "adaptive/MaxWidth_480px.css";
+
+.Guarantee {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+@media (max-width: 480px) {
+    .Guarantees {
+        margin: 5% auto;
+    }
+
+    .Guarantees__header {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .Guarantees__guarantee-block {
+        flex-direction: column;
+        text-align: center;
+    }
+}

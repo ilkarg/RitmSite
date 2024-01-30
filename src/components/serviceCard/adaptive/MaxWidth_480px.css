@@ -1,0 +1,25 @@
+@media (max-width: 480px) {
+    .ServiceCard {
+        margin-top: 10%;
+        width: 280px;
+        height: 200px;
+    }
+
+    .ServiceCard__image {
+        padding-top: 5%;
+        width: 70px;
+        height: 70px;
+    }
+
+    .ServiceCard__title {
+        padding-top: 5%;
+        font-size: 18px;
+    }
+
+    .ServiceCard__aboutButton {
+        font-size: 18px;
+        margin-top: 10%;
+        width: 150px;
+        height: 30px;
+    }
+}

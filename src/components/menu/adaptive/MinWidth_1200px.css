@@ -1,0 +1,11 @@
+@media (min-width: 1200px) {
+    .Menu {
+        height: 50px;
+    }
+
+    .Menu__elements__link {
+        font-size: 20px;
+        margin-left: -20%;
+        margin-right: 40%;
+    }
+}

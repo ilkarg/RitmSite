@@ -1,0 +1,26 @@
+@media (min-width: 1200px) {
+    .PopularServices {
+        display: block;
+        margin-top: 2%;
+        padding-bottom: 2%;
+    }
+
+    .PopularServices__header-block {
+        padding-top: 1%;
+    }
+
+    .PopularServices__header-block__header {
+        font-size: 25px;
+    }
+
+    .PopularServices__cards-block__first-line, .PopularServices__cards-block__second-line {
+        display: flex;
+        padding-top: 1%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .PopularServices__cards-block__first-line > div.ServiceCard, .PopularServices__cards-block__second-line > div.ServiceCard {
+        margin-left: 2%;
+    }
+}

@@ -1,0 +1,9 @@
+@media (max-width: 480px) {
+    .Footer {
+        height: 30px;
+    }
+
+    .Footer__content {
+        font-size: 16px;
+    }
+}

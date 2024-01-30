@@ -1,0 +1,11 @@
+@media (min-width: 1200px) {
+    .Guarantee {
+        margin: 3% 2% 3% 4%;
+        width: 30%;
+    }
+
+    .Guarantee__content {
+        font-size: 20px;
+        padding-left: 3%;
+    }
+}
